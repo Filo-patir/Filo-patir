@@ -23,15 +23,10 @@ I'm Filopatir Mamdouh, a dedicated Android app developer currently enrolled in a
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
 
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Linkdn](https://www.linkedin.com/in/filopatir-mamdo7/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
