@@ -18,9 +18,9 @@ I'm Filopatir Mamdouh, a dedicated Android app developer currently enrolled in a
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,php,kotlin,androidstudio,c,cpp,firebase)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
-
-<!-- - 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  
+  - 🧑🏻‍💻 Mastering Android Developing
+  <!--  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Django, a powerful Python web framework.
