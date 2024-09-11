@@ -17,6 +17,8 @@ I'm Filopatir Mamdouh, a dedicated Android app developer currently enrolled in a
 ## My Technologies
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,php,kotlin,androidstudio,c,cpp,firebase)](https://skillicons.dev)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filopatir-mamdouh&layout=compact)](https://github.com/filopatir-mamdouh)
+
 ## 🌱 Currently Exploring
   
   - 🧑🏻‍💻 Mastering Android Developing
@@ -28,8 +30,9 @@ I'm Filopatir Mamdouh, a dedicated Android app developer currently enrolled in a
 
 
 ## 📬 Get in Touch
+[![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/filopatir-mamdo7/)
+&nbsp;
 
-- Connect with me on [Linkdn](https://www.linkedin.com/in/filopatir-mamdo7/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
