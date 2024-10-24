@@ -4,7 +4,7 @@ I'm Filopatir Mamdouh, a dedicated Android app developer currently enrolled in a
 <br><br>
 [![wakatime](https://wakatime.com/badge/user/018ef125-342f-45f8-9047-bf7b09a7a155.svg)](https://wakatime.com/@018ef125-342f-45f8-9047-bf7b09a7a155)
 
-![Filopatir-Mamdouh's Stats](https://github-readme-stats.vercel.app/api?username=Filopatir-Mamdouh&theme=github_dark&show_icons=true&hide_border=true&count_private=true)     
+![Filopatir-Mamdouh's Stats](https://github-readme-stats.vercel.app/api?username=Filo-patir&theme=github_dark&show_icons=true&hide_border=true&count_private=true)     
 
 
 ## 🚀 About Me
@@ -17,7 +17,7 @@ I'm Filopatir Mamdouh, a dedicated Android app developer currently enrolled in a
 ## My Technologies
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,php,kotlin,androidstudio,c,cpp,firebase)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filopatir-Mamdouh&theme=github_dark&layout=compact)](https://github.com/filopatir-mamdouh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filo-patir&theme=github_dark&layout=compact)](https://github.com/Filo-patir)
 
 ## 🌱 Currently Exploring
   
@@ -30,7 +30,7 @@ I'm Filopatir Mamdouh, a dedicated Android app developer currently enrolled in a
 
 
 ## 📬 Get in Touch
-[![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/filopatir-mamdo7/)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/filopatir-mamdo7/)
 &nbsp;
 
 
