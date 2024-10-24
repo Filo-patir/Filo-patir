@@ -2,6 +2,8 @@
 
 I'm Filopatir Mamdouh, a dedicated Android app developer currently enrolled in an intensive training program at the Information Technology Institute (ITI). Building upon my ICT foundation from The Egyptian Korean Faculty of Technological Industry and Energy, I am honing my skills to deliver exceptional mobile experiences. Passionate about crafting innovative Android applications, I am eager to contribute to dynamic projects and expand my expertise in the mobile app industry.
 <br><br>
+
+![Profile views](https://komarev.com/ghpvc/?username=Filo-patir)
 [![wakatime](https://wakatime.com/badge/user/018ef125-342f-45f8-9047-bf7b09a7a155.svg)](https://wakatime.com/@018ef125-342f-45f8-9047-bf7b09a7a155)
 
 ![Filopatir-Mamdouh's Stats](https://github-readme-stats.vercel.app/api?username=Filo-patir&theme=github_dark&show_icons=true&hide_border=true&count_private=true)     
