@@ -6,7 +6,7 @@ I'm Filopatir Mamdouh, a dedicated Android app developer currently enrolled in a
 ![Profile views](https://komarev.com/ghpvc/?username=Filo-patir)
 [![wakatime](https://wakatime.com/badge/user/018ef125-342f-45f8-9047-bf7b09a7a155.svg)](https://wakatime.com/@018ef125-342f-45f8-9047-bf7b09a7a155)
 
-![Filopatir-Mamdouh's Stats](https://github-readme-stats.vercel.app/api?username=Filo-patir&theme=github_dark&show_icons=true&hide_border=true&count_private=true&card_width=400) [![Filopatir-Mamdouh's Streak](https://github-readme-streak-stats.herokuapp.com?user=Filo-patir&theme=github-dark-blue&card_width=400)](https://git.io/streak-stats)
+![Filopatir-Mamdouh's Stats](https://github-readme-stats.vercel.app/api?username=Filo-patir&theme=github_dark&show_icons=true&hide_border=true&count_private=true&card_width=400) [![Filopatir-Mamdouh's Streak](https://github-readme-streak-stats.herokuapp.com?user=Filo-patir&theme=github-dark-blue&card_width=400)](https://github-readme-streak-stats.herokuapp.com?user=Filo-patir&theme=github-dark-blue&card_width=400)
 
 
 ## 🚀 About Me
